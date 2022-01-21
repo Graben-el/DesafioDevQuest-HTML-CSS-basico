@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section {
+    margin-top: 40px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.tabelas  {
+    color: #fff;
+    font-size: 1.2em;
+    padding-left: 3px;
+}
+
+.titulo-tabela {
+    color: #000;
+    margin-bottom: 4px;
+    font-weight: bolder;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+.cabecalho {
+    padding: 12px;
+}
+
+.tabela-moda .cabecalho {
+    background-color: #BB86FC;
+}
+
+.tabela-casa .cabecalho {
+    background-color: #00C4B4;
+}
+
+.valores {
+    background-color: #424250;
+    padding: 12px;
+}
+
+.rodape {
+    font-style: italic;
+}
